@@ -1,3 +1,5 @@
+description technique;
+
 Frontend :
 
 HTML et CSS : Utilisation d'HTML pour la structure des pages web et de CSS pour la mise en page et le style ainsi que l'insertion d'un logo.
@@ -36,10 +38,12 @@ Interface Utilisateur :
 
 Conception d'une interface utilisateur esthétique en utilisant CSS pour une expérience visuelle agréable.
 Mise en place d'un design responsive pour garantir une expérience utilisateur cohérente sur différents appareils.
+
 Réinitialisation du Mot de Passe :
 
 Les utilisateurs ont la possibilité de réinitialiser leur mot de passe en cas d'oubli.
 Mécanisme de réinitialisation sécurisé via e-mail (optionnel).
+
 Sécurité et Confidentialité :
 
 Protocole HTTPS pour la sécurité des données en transit.
@@ -49,20 +53,8 @@ Gestion de la Base de Données :
 
 Création et maintenance d'une base de données MySQL.
 Stockage sécurisé des informations des utilisateurs dans la table dédiée.
-Tests et Validation :
 
-Réalisation de tests unitaires pour chaque fonctionnalité.
-Tests d'intégration pour s'assurer du bon fonctionnement de l'ensemble du système.
-Documentation :
 
-Fourniture d'une documentation détaillée pour l'installation, la configuration et l'utilisation de l'application.
-Guide utilisateur pour aider les utilisateurs à naviguer et utiliser les fonctionnalités de l'application.
-Support Technique :
-
-Fourniture d'un support technique après la livraison pour résoudre tout problème éventuel et répondre aux questions des utilisateurs.
-Coûts :
-
-Estimation des coûts associés au développement, à la maintenance et au support du projet.
 
 
 
