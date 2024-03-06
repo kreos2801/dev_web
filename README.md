@@ -55,3 +55,27 @@ Gestion de la Base de Données :
 Création et maintenance d'une base de données MySQL.
 Stockage sécurisé des informations des utilisateurs dans la table dédiée.
 ![image](https://github.com/kreos2801/dev_web/assets/145690838/f288af2a-74f3-4f96-8a31-28332ec34b0f)
+
+#charte graphique
+background: white,black
+Header:  #333
+footer: #333
+close button: rgb(141, 14, 14)
+button: background-color: #333;
+        color: #fff;
+Typo: arial 
+![image](https://github.com/kreos2801/dev_web/assets/145690838/1b17a1b1-0830-46ec-8f67-a318674abaa3)
+![image](https://github.com/kreos2801/dev_web/assets/145690838/c0a28d05-41dc-4ddc-a9bc-2264ade0cb88)
+![image](https://github.com/kreos2801/dev_web/assets/145690838/a44540c8-26db-460e-9288-c04af7202fae)
+![image](https://github.com/kreos2801/dev_web/assets/145690838/ffe6492d-dabc-49c4-8bc7-8c18631dd913)
+![image](https://github.com/kreos2801/dev_web/assets/145690838/397e98ed-86cb-46ef-900d-90c5d744b935)
+![image](https://github.com/kreos2801/dev_web/assets/145690838/178b65c8-e76d-4d9c-a879-5bd4d8f4d1ab)
+![image](https://github.com/kreos2801/dev_web/assets/145690838/d5e40989-0ef2-4ca1-841f-c33b541046b0)
+
+
+
+
+
+
+
+
