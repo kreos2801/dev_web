@@ -55,6 +55,8 @@ Gestion de la Base de Données :
 Création et maintenance d'une base de données MySQL.
 Stockage sécurisé des informations des utilisateurs dans la table dédiée.
 ![image](https://github.com/kreos2801/dev_web/assets/145690838/f288af2a-74f3-4f96-8a31-28332ec34b0f)
+![image](https://github.com/kreos2801/dev_web/assets/145690838/e3b98efc-b584-46db-a3d2-ca0b54aaaa31)
+
 
 #charte graphique
 background: white,black
